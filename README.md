@@ -122,21 +122,21 @@ To design and develop three analytical dashboards that transform raw manufacturi
 
 |
 
-![WhatsApp Image 2025-12-09 at 18 07 29_dc9b0151](https://github.com/user-attachments/assets/382b0344-5b01-42d5-a626-d6774ec478e7)
+<img width="829" height="554" alt="Excel Manufacturing Dashboard" src="https://github.com/user-attachments/assets/f368e74a-996a-4279-928d-d016b1b1087f" />
 
 
 | Power BI Dashboard |
 
 |
 
-![WhatsApp Image 2025-12-09 at 18 07 16_bdc1b535](https://github.com/user-attachments/assets/3b700a48-0f89-47bc-bea8-9a4b30bc12df)
+<img width="1351" height="753" alt="PowerBI Manufacturing Dashboard" src="https://github.com/user-attachments/assets/c1975182-d019-431f-a820-30a2250e6af5" />
 
 | Tableau Dashboard |
 
 |
 
-<img width="1314" height="719" alt="Tableau Dashbaord 1" src="https://github.com/user-attachments/assets/7c30f3af-9188-4f1a-bf5d-11d986984033" />
-<img width="1311" height="737" alt="Tableau Dashboard 2" src="https://github.com/user-attachments/assets/48b9df3b-5e6e-486f-a605-684809bc0f94" />
+![Tableau Dashboard 1](https://github.com/user-attachments/assets/01b91d2e-2a07-49a0-81d6-cf4fcba2c8c1)
+![Tableau Dashboard 2](https://github.com/user-attachments/assets/b1c7ef20-3727-4582-a42f-4da7464f9e5b)
 
 
 ---
